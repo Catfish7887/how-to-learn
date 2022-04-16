@@ -314,11 +314,9 @@
 .footer__column_content_info{
   display: flex;
   flex-direction: column;
-  border: 1px solid red;
 }
 
 .footer__column_content_social{
-  border: 1px solid red;
   padding: 0;
   margin: 0;
 }
@@ -330,7 +328,6 @@
   font-size: 18px;
   font-weight: normal;
   color: white;
-  border: 1px solid red;
 }
 
 .footer__column-heading{
