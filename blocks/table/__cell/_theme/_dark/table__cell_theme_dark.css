@@ -1,0 +1,10 @@
+.table__cell_theme_dark {
+  width: 200px;
+  margin-top: 80px;
+  list-style: none;
+  padding-left: 0;
+  margin-right: 10px;
+}
+.table__cell_theme_dark:nth-of-type(4n){
+  margin-right: 10px;
+}
