@@ -1,2 +1,6 @@
-@import url(./root/root.css);
-@import url(two-columns/two-columns.css);
+.description{
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+

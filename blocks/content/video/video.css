@@ -1,5 +1,5 @@
-@import url(./root/root.css);
-@import url(./__iframe/video__iframe.css);
-@import url(./__iframes/video__iframes.css);
-@import url(./section-title/section-title.css);
-@import url(./section-subtitle/section_subtitle.css);
+.video{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
