@@ -5,6 +5,6 @@
   background-size: 867px 637px;
   background-repeat: no-repeat;
   background-position: left bottom;
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
 }
